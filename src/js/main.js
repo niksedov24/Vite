@@ -1,3 +1,1 @@
-
-
-const null = null
+import '../css/main.scss';
