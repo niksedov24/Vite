@@ -1,3 +1,5 @@
 body {
+  display: inline;
+  width: 50px;
   background-color: aqua;
 }
